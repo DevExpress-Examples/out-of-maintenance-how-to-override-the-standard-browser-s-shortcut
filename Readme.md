@@ -1,4 +1,7 @@
 # How to use the PreventEventAndBubble method
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/128567151/)**
+<!-- run online end -->
 
 
 This sample demonstrates why and how you can use the ASPxClientUtils.PreventEventAndBubble client method when implementing your application's client logic.<br />Note that the sample code uses a couple of client utility methods - GetShortcutCodeByEvent and StringToShortcutCode - making it easy to work with shortcut codes on the client.<br />The use of the ASPxWebControl.RegisterBaseScript server static method is also demonstrated.
